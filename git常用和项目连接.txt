@@ -1,0 +1,63 @@
+C:\Users\Administrator\Documents\UTS\UTS2019\{374C3239-A5EC-B4B5-FEA7-A13C9C2F86F2}_5466\msg\image\21
+Í¼Æ¬
+
+¹«Ô¢
+http://apartment.wavewisdom.com/login
+
+uËø
+http://ulock-web.wavewisdom.com/login
+
+================================================================================
+https://github.com/xqccc257990/618git-weifu.git
+https://github.com/xqccc257990/618install.git
+
+
+
+======================================================================================
+github
+2579905574@qq.com
+ccc257990
+
+npm
+257990cxq
+2972192521@qq.com
+ccc123456
+cxq257990
+ABC123456abc
+2579905574@qq.com
+
+as
+Cxq25799000
+F
+a
+s@qqd
+2579905574@qq.com  11 SsdsSDsd dDsdcSssSdSs
+========================================================================================
+
+npm nit
+npm login
+npm config get registry
+npm config ls
+npm login --registry http://registry.npmjs.org
+npm publish --registry http://registry.npmjs.org
+npm config set registry=http://registry.npmjs.org
+npm adduser
+npm config set registry=https://registry.npm.taobao.org/
+npm publish
+npm link
+
+==========================================================================================
+git pull origin master
+
+git push origin master
+git status
+git init
+git add . 
+git commit -m "Ìá½»" 
+git remote add origin  https://github.com/xqccc257990/618install.git¡¡¡¡
+git push origin master ¡¡¡¡-f
+
+
+=================================================================================
+git config --global http.lowSpeedLimit 0
+git config --global http.lowSpeedTime 999999
